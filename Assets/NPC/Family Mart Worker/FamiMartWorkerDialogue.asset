@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 632a86346851947ac8cb8afac2375749, type: 3}
+  m_Name: FamiMartWorkerDialogue
+  m_EditorClassIdentifier: 
+  npcName: Fred the Fami Mart Employee
+  npcPortrait: {fileID: 7927232513367381743, guid: 80c13ff72d4074b59b39c02b9c966440, type: 3}
+  dialogueLines:
+  - Hi...
+  - I'm Fred...
+  - 'Gosh, I''m so tired... '
+  - ...
+  - I just had a 12 hour shift and I'm coming up on my last hour...
+  - ...
+  - I just want to go home and go to bed... I hate working here...
+  - (yawn)
+  - (proceeds to start snoozing off)
+  - (maybe you should leave him alone...)
+  autoProgressLines: 
+  autoProgressDelay: 1.5
+  typeSpeed: 0.05
+  voiceSound: {fileID: 0}
+  voicePitch: 1

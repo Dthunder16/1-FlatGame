@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 632a86346851947ac8cb8afac2375749, type: 3}
+  m_Name: BaristaDialogue
+  m_EditorClassIdentifier: 
+  npcName: Bobby the Barista
+  npcPortrait: {fileID: 8931817782369603161, guid: cb3bda2b6d41041f9a3ec4636c17896f, type: 3}
+  dialogueLines:
+  - Hi, I'm Bobby! I'm the barista of this coffee joint!
+  - I don't believe we've met! What's your name?
+  - ...
+  - What a lovely name!
+  - Unfortunately the coffee machine is down today so I can't make you any coffee...
+  - But hopefully the ramen shop is open for business!
+  autoProgressLines: 
+  autoProgressDelay: 1.5
+  typeSpeed: 0.05
+  voiceSound: {fileID: 0}
+  voicePitch: 1
