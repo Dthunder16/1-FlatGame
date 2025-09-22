@@ -21,8 +21,9 @@ MonoBehaviour:
   - What a lovely name!
   - Unfortunately the coffee machine is down today so I can't make you any coffee...
   - But hopefully the ramen shop is open for business!
+  - Have a great day!
   autoProgressLines: 
   autoProgressDelay: 1.5
-  typeSpeed: 0.05
+  typeSpeed: 0.03
   voiceSound: {fileID: 0}
   voicePitch: 1
